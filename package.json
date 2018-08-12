@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/namii-11/test.git"
+    "url": "git+https://github.com/namii-11/QA_Challenge.git"
   },
   "author": "Namit",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/namii-11/test/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/namii-11/test#readme",
+  "homepage": "https://github.com/namii-11/QA_Challenge",
   "devDependencies": {
     "chai": "^3.2.0",
     "chai-http": "^1.0.0",
